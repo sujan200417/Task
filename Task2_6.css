@@ -1,0 +1,36 @@
+.main{
+    height: 50%;
+    width: 50%;
+    margin: auto;
+}
+
+#login{
+    height: 35px;
+    width: 500px;
+    margin-top: 20px;
+    font-size: medium;
+    background-color: green;
+    color: azure;
+    border-color: white;
+    display: block;
+}
+.last{
+    display: flex;
+    margin-top: 20px;
+    height: 80px;
+    width: 500px;
+    background-color: gainsboro;
+}
+#text{
+    margin-left: 290px;
+    margin-top: 40px;
+}
+#cancel{
+    height: 40px;
+    width: 90px;
+    background-color: red;
+    color: azure;
+    border-color: white;
+    margin-top: 40px;
+    border-radius: 8px;
+}

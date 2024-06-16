@@ -1,0 +1,76 @@
+.btn{
+    height: 400px;
+    width: 200px;
+    
+   
+    
+    
+}
+#green{
+    height: 60px;
+    width: 80px;
+    background-color: green;
+    display: block;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 5px;
+
+}
+
+#blue{
+    height: 60px;
+    width: 80px;
+    background-color: blue;
+    display: block;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 5px;
+
+
+}
+#red{
+    height: 60px;
+    width: 80px;
+    background-color: red;
+    display: block;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 5px;
+
+}
+#grey{
+    height: 60px;
+    width: 80px;
+    background-color: grey;
+    display: block;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin: 5px;
+
+}
+.tag{
+   
+    
+    
+    height: 500px;
+    width: 500px;
+    
+    
+    
+    
+}
+#green:hover{
+    background-color: orange;
+}
+#blue:hover{
+    background-color: orange;
+}
+#red:hover{
+    background-color: orange;
+}
+#grey:hover{
+    background-color: orange;
+}
+.container{
+    display: flex;
+}

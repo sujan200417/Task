@@ -1,0 +1,10 @@
+table{
+    width: 50%;
+    border-collapse: collapse;
+}
+#head{
+    background-color:rgb(14, 190, 125);
+}
+tr:nth-of-type(even){
+    background-color: rgb(180, 173, 173);
+}

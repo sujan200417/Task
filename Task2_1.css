@@ -1,0 +1,135 @@
+table{
+    border: solid;
+    border-radius: 30px;
+    border-left-color: aliceblue;
+    size: 30%;
+    table-layout: auto;
+    width: 70% ;
+    padding: 0.25%;
+    background-color:aquamarine ;
+    margin-left: auto;
+   margin-right: auto;
+    
+    
+    
+}
+#head{
+    text-align:center;
+}
+td{
+    border: solid;
+    border-width: 50%;
+    border-radius: 5% / 50%;
+    
+}
+
+.rectangle1{
+    width: 150px;
+     height: 75px;
+     border: 5px solid rgb(146, 185, 106);
+    
+    
+     margin-left: 170px ;
+     margin-top: 50px;
+     display: inline-block;
+     border-radius: 5px;
+     
+   
+   }
+   .rectangle2{
+    width: 150px;
+    height: 75px;
+    border: 5px solid rgb(146, 185, 106);
+   
+    
+    margin-left: 70px ;
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 10px;
+   }
+   .rectangle3{
+    width: 150px;
+    height: 75px;
+    border: 5px solid rgb(146, 185, 106);
+    
+    
+    margin-left: 70px ;
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 30px;
+   }
+ .second1{
+    width: 150px;
+     height: 75px;
+     border: 5px solid rgb(146, 185, 106);
+    
+    
+     margin-left: 170px ;
+     margin-top: 50px;
+     display: inline-block;
+     border-radius: 5px;
+
+ }
+ .second2{
+    width: 150px;
+    height: 75px;
+    border: 5px solid rgb(146, 185, 106);
+    
+    
+    margin-left: 70px ;
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 10px;
+ }
+ .second3{
+    width: 150px;
+    height: 75px;
+    border: 5px solid rgb(146, 185, 106);
+   
+    
+    margin-left: 70px ;
+    margin-top: 0px;
+    display: inline-block;
+    border-radius: 30px;
+ }
+ .third1{
+    width: 150px;
+     height: 100px;
+     border: 5px solid rgb(146, 185, 106);
+     
+    
+     margin-left: 170px ;
+     margin-top: 50px;
+     display: inline-block;
+     border-radius: 40%;
+
+ }
+ .third2{
+    width: 150px;
+    height: 75px;
+    border: 5px solid rgb(146, 185, 106);
+    
+    
+    margin-left: 70px ;
+    margin-top: 50px;
+    display: inline-block;
+    border-radius: 10px;
+ }
+ .third3{
+    width: 150px;
+    height: 75px;
+    border: 5px solid rgb(146, 185, 106);
+    
+    
+    margin-left: 70px ;
+    margin-top: 50px;
+    display: inline-block;
+   
+    border-radius: 10px 100px / 120px;
+ }
+ .figure{
+   margin: auto;
+   
+   width: 1000px;
+ }
+   
